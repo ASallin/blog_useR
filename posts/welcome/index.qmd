@@ -18,8 +18,8 @@ For the R user group Zurich, the end of 2024 brought one of the biggest changes 
 After 8 years and more than 40 (!!) meetups, Muriel, Rachel and Dorothea said <a href="">Farewell to an Incredible Journey with the Zurich R User Group (RUG)</a>. We would like to use this platform to say thanks for your creativity, your effort and your endurance that were so crucial to making the Zurich R user group what it is today: one of the largest and most established tech meetups in the Zurich Greater area. 
 Literally thousands of members of benefitted from the events and the network at large. 
 
-We -- that's Aurelien, Gerlinde, Matt, Mike, Minna and Sereina -- are excited to contribute to the great tradition of R meetups in the Zurich Greater area and the chance to bring useRs together. To learn more about us, our approach and future developments, explore our new website on 
-https://zurich-r-user-group.github.io) and make sure to come to one of our meetups! 
+We -- that's Aurélien, Gerlinde, Matt, Mike, Minna and Sereina -- are excited to contribute to the great tradition of R meetups in the Zurich Greater area and the chance to bring useRs together. To learn more about us, our approach and future developments, explore our new website on 
+[https://zurich-r-user-group.github.io](https://zurich-r-user-group.github.io) and make sure to come to one of our meetups! 
 
 
 ## The Show Goes on:<br>Geodata and Landscape Insights with R @WSL
